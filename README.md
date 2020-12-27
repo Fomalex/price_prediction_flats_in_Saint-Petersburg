@@ -1,3 +1,5 @@
+Ссылка на Flask-приложение: https://drive.google.com/drive/folders/1SiTnQg9xYkBXefUJa_qnhyLdQVVI3wGC?usp=sharing
+
 # Проект на тему: "Предсказание цен на квартиры в Санкт-Петербурге"
 
 ### Определение бизнес-целей:
